@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to classify SMS messages as either spam or ham (non-spam) using machine learning techniques. The dataset used for this project contains SMS messages labeled as spam or ham.
+First look of the dataset obtained using pandas-profiling (file:///C:/Users/Dell/SMS%20spam%20detection/output.html)
 
 ## Project Structure
 - **Data Cleaning**: Initially, the dataset is loaded and cleaned by removing unnecessary columns, handling missing values, and removing duplicates.
@@ -28,6 +29,6 @@ This project aims to classify SMS messages as either spam or ham (non-spam) usin
 
 ## Acknowledgements
 - The dataset used in this project was obtained from-- https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
-- First look of the dataset obtained using pandas-profiling-- file:///C:/Users/Dell/SMS%20spam%20detection/output.html
+
 ## Author
 - Sheersh Saxena
